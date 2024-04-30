@@ -1,14 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Microsoft.AspNetCore.Mvc;
 using ProjetoInterDisciplinar.Data;
 using ProjetoInterDisciplinar.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.InteropServices;
+
 
 namespace ProjetoInterDisciplinar.Controllers
 {
@@ -16,7 +13,7 @@ namespace ProjetoInterDisciplinar.Controllers
     [Route("[controller]")]
     public class FuncionarioController : ControllerBase
     {
-        private readonly DataContext _context;
+        private readonly DataContext _context;  // context é usado para visualizar uma variável global
 
         public FuncionarioController(DataContext context)
         {

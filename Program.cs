@@ -4,15 +4,14 @@ using ProjetoInterDisciplinar.Data;
 
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
         options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoSomee"));
 });
-
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddControllers();
 
 
 var app = builder.Build();
@@ -45,6 +44,9 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
+
+app.MapControllers();
+
 
 app.Run();
 

@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore; /// HERANÇA DO BANCO DE DADOS
 using ProjetoInterDisciplinar.Models; // Herança da API
 using ProjetoInterDisciplinar.Models.Enuns; // Herança da função dos funcionários
+
+
 namespace ProjetoInterDisciplinar.Data
 {
     public class DataContext : DbContext
