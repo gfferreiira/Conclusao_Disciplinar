@@ -72,7 +72,7 @@ namespace ProjetoInterDisciplinar.Controllers
             }
         }
 
-         [HttpDelete("{id}")]
+         [HttpDelete("{id}")] // Deletar Funcionário
 
        public async Task<IActionResult> Delete(int id)
        {
@@ -90,6 +90,26 @@ namespace ProjetoInterDisciplinar.Controllers
         {
             return BadRequest(ex.Message);
         }
+       }
+
+       [HttpPost("{Cadastrar}")] // Cadastrar Funcionário
+
+       public async Task<IActionResult> Add(Funcionario novoFuncionario)
+       {
+        try
+        {
+            Funcionario f = await _context.TB_FUNCIONARIOS
+                .FirstOrDefaultAsync(f => f.Id == novoFuncionario.Id);
+
+                await _context.TB_FUNCIONARIOS.AddAsync(novoFuncionario);
+                await _context.SaveChangesAsync();
+                return Ok(novoFuncionario.Nome);
+                
+        }
+        catch (System.Exception ex) 
+        {
+                return BadRequest(ex.Message);
+            }
        }
 
     }

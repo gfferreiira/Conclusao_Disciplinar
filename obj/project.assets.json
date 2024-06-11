@@ -4516,23 +4516,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gui_f\\.nuget\\packages\\": {},
+    "C:\\Users\\etechas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\ProjetoInterDisciplinar\\ProjetoInterDisciplinar.csproj",
+      "projectUniqueName": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
       "projectName": "ProjetoInterDisciplinar",
-      "projectPath": "C:\\C#\\ProjetoInterDisciplinar\\ProjetoInterDisciplinar.csproj",
-      "packagesPath": "C:\\Users\\gui_f\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\ProjetoInterDisciplinar\\obj\\",
+      "projectPath": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
+      "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
+      "outputPath": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gui_f\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4554,11 +4554,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4603,7 +4598,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
