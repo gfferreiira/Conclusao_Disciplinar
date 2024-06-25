@@ -416,3 +416,8 @@ D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch
 D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\publish\web.config
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\publish\appsettings.json
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\publish\ProjetoInterDisciplinar.deps.json
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\publish\ProjetoInterDisciplinar.runtimeconfig.json
