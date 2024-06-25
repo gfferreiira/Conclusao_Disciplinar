@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoInterDisciplinar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1863eff467f16d7413ae2f953caca0d8a4fa76de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f653c70fbc743e3be5731fe35055bb056c3a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoInterDisciplinar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoInterDisciplinar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

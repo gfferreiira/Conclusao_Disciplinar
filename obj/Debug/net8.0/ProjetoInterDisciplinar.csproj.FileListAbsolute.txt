@@ -412,3 +412,7 @@ D:\WellGui\Conclusao_Disciplinar\obj\Debug\net8.0\scopedcss\bundle\ProjetoInterD
 D:\WellGui\Conclusao_Disciplinar\obj\Debug\net8.0\ProjetoInterDisciplinar.csproj.CopyComplete
 D:\WellGui\Conclusao_Disciplinar\obj\Debug\net8.0\ProjetoInterDisciplinar.genruntimeconfig.cache
 D:\WellGui\Conclusao_Disciplinar\obj\Debug\net8.0\ref\ProjetoInterDisciplinar.dll
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\WellGui\Conclusao_Disciplinar\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
