@@ -4522,11 +4522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
+      "projectUniqueName": "D:\\WellGui\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
       "projectName": "ProjetoInterDisciplinar",
-      "projectPath": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
+      "projectPath": "D:\\WellGui\\Conclusao_Disciplinar\\ProjetoInterDisciplinar.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\WellGui\\DS\\Conclusao_Disciplinar\\obj\\",
+      "outputPath": "D:\\WellGui\\Conclusao_Disciplinar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
