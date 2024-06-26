@@ -9,7 +9,7 @@ namespace Conclusao_Disciplinar.Models
 {
     public class Usuario
     {
-         public int Id { get; set; } //Atalho para propridade (PROP + TAB)
+        public int Id { get; set; } //Atalho para propridade (PROP + TAB)
         public string UserName { get; set; } = string.Empty;
         public byte[]? PasswordHash { get; set; } 
         public byte[]? PasswordSalt { get; set; } 

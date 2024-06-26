@@ -17,7 +17,5 @@ namespace ProjetoInterDisciplinar.Models
         public FuncaoEnum Funcao { get; set; }
 
         public int HorasDeServico { get; set; }
-
-
     }
 }
